@@ -1,5 +1,5 @@
 # OpenAIFor.NET6.0
-Scripts to use OpenAI Api in .NET 6.0 c#, this is the version that works with GODOT game engine.
+Script to use OpenAI Api in .NET 6.0 c#, this is the version that works with GODOT game engine.
 
 for this to work you need packages newtonsoft.json and system.net.http
 
