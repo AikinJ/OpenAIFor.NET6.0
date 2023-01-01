@@ -164,6 +164,9 @@ namespace OpenAIConnector
         public Datum[] data { get; set; }
     }
 
-
+    public class Datum
+    {
+        public string url { get; set; }
+    }
 }
 
